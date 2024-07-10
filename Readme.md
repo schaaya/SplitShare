@@ -2,14 +2,14 @@
 
 Split Share is a clone of the popular expense-sharing app Splitwise. It allows users to share expenses with friends, keep track of balances, and settle debts seamlessly. This application is built using ReactJS for the frontend, Node.js and Express for the backend, and MySQL for the database.
 
+ <img alt="SplitShare application" src="splitwise_1" />
+
 ## Table of Contents
 
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
